@@ -1,1 +1,1 @@
-kinect2.0下的人体目标检测
+kinect2.0 Human Obeject Tracking.This is first step.
